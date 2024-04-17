@@ -12,7 +12,7 @@
 6. Katie White [@katieawhite29](https://github.com/katiewhite29)
 
 ## Problem Description:
-We have found a data set that gives us information from the NYPD Shooting Incidents from 2006-2022. This data set has been found from the US Data Gov website. Within this data, the primary key is listed as INCIDENT_KEY and this gives an individual number for each of the incidents. The next column within the data set is OCCUR_DATE and the following one iS OCCUR_TIME, both of these are giving the date and time of when the incident occurred. Next, the column is BORO which shows the NY Borough in which the shooting happened, for example, "Manhattan, Brooklyn, ...". There is also a column for PRECINCT which also gives exact location information about the shooting. 
+We have found a data set that gives us information from the NYPD Shooting Incidents from 2006-2022. This data set has been found from the US Data Gov website. Within this data, the primary key is listed as INCIDENT_KEY and this gives an individual number for each of the incidents. The next column within the data set is OCCUR_DATE and the following one iS OCCUR_TIME, both of these are giving the date and time of when the incident occurred. Next, the column is BORO which shows the NY Borough in which the shooting happened, for example, "Manhattan, Brooklyn, ...". There is also a column for PRECINCT which also gives exact location information about the shooting. There is a LOCATION_DESC column (location description) in order to add details so some of the shootings such as "Grocery store" or "Jewelry Store". Within the data there is a column that is called STATISTICAL_MURDER_FLAG, the data for this column is all true or false. 
 
 ## Data Model Questions: 
 ### Question 1:
