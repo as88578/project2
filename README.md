@@ -12,9 +12,13 @@
 6. Katie White [@katieawhite29](https://github.com/katiewhite29)
 
 ## Problem Description:
-We are using a data set from the US Data Gov Website that gives us the information from the NYPD about shootings within New York. This data is complete with information about the date of the data, the time, the borough, and information about the murderer and the victim. We will be using this data in order to visualize the trends of these shootings throughout the time of year, the burough and so much more. 
+We have found a data set that gives us information from the NYPD Shooting Incidents from 2006-2022. This data set has been found from the US Data Gov website. Within this data, the primary key is listed as INCIDENT_KEY and this gives an individual 
 
 ## Data Model Questions: 
 ### Question 1:
 
 ### Question 2: 
+
+## Manipulations to data:
+
+## Analysis and Results: 
