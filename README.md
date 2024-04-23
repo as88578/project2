@@ -30,5 +30,6 @@ Create a graph to show the victims who survived vs the murdered victims dependin
 
 We created 2 separate graphs of who survived and who did not based on their races and in both of these graphs, the black race was the highest amount of each.
 ## Manipulations to data:
+Utilized a calculated field to change the Statistical Murdrer Flag from "True" and "False" to "Murdered" and "Survived" so they data could be understood more easily. 
 
 ## Analysis and Results: 
