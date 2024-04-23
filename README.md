@@ -24,7 +24,9 @@ Create a map showing the locations throughout the bouroughs of New York during t
 During the year 2020, the amount of shootings throughout all of the bouroughs increased. We noticed that the spike in Brooklyn shootings increased the most. Especially throughout July, we can see that that is the month that caused the biggest increase in number of shootings. This data gives us more information about the months during COVID and we can see that during these months and through our graph which the safest bouroughs are throughout New York.
 
 ### Question 2: 
+Create a graph to show the victims who survived vs the murdered victims depending on their races in Manhattan throughout 2019-2021.
 
+We created 2 separate graphs of who survived and who did not based on their races and in both of these graphs, the black race was the highest amount of each.
 ## Manipulations to data:
 
 ## Analysis and Results: 
