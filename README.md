@@ -35,3 +35,7 @@ Utilized a calculated field to change the Statistical Murdrer Flag from "True" a
 
 ## Analysis and Results: 
 
+## Date Source
+
+Police Department (NYPD). (2024). NYPD Shooting Incident Data (Historic). NYC OpenData. https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8/about_data
+
