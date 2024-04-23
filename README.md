@@ -16,10 +16,10 @@ We have found a data set that gives us information from the NYPD Shooting Incide
 
 ## Data Model Questions: 
 ### Question 1: 
-Create a map showing the locations throughout the bouroughs of NYC during the years 2019, 2020, and 2021. Explain how COVID-19 during 2020 affected this data.
+Create a map showing the locations throughout the bouroughs of New York during the years 2019, 2020, and 2021. Explain how COVID-19 during 2020 affected this data.
 
 
-During the year 2020, the amount of shootings throughout all of the bouroughs increased. We noticed that the spike in Brooklyn shootings increased the most. Especially throughout July, we can see that that is the month that caused the biggest increase in number of shootings.
+During the year 2020, the amount of shootings throughout all of the bouroughs increased. We noticed that the spike in Brooklyn shootings increased the most. Especially throughout July, we can see that that is the month that caused the biggest increase in number of shootings. This data gives us more information about the months during COVID and we can see that during these months and through our graph which the safest bouroughs are throughout New York.
 
 ### Question 2: 
 
