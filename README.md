@@ -34,3 +34,4 @@ We created 2 separate graphs of who survived and who did not based on their race
 Utilized a calculated field to change the Statistical Murdrer Flag from "True" and "False" to "Murdered" and "Survived" so they data could be understood more easily. 
 
 ## Analysis and Results: 
+
