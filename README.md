@@ -26,6 +26,8 @@ During the year 2020, the amount of shootings throughout all of the bouroughs in
 ### Question 2: 
 Create a graph to show the victims who survived vs the murdered victims depending on their races in Manhattan throughout 2019-2021.
 
+<img width="1059" alt="Screenshot 2024-04-23 at 6 44 08 PM" src="https://github.com/katiewhite29/4610-Project-2/assets/150160152/c9811574-c990-48a2-92b9-f53633dfa081">
+
 We created 2 separate graphs of who survived and who did not based on their races and in both of these graphs, the black race was the highest amount of each.
 ## Manipulations to data:
 
