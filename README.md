@@ -29,7 +29,7 @@ Create a graph to show the victims who survived vs the murdered victims dependin
 
 We created 2 separate graphs of who survived and who did not based on their races and in both of these graphs, the black race was the highest amount of each. This graph gives us information about which race shot at more during these years and how many of the victims survived throughout these years in Manhattan.
 ## Manipulations to data:
-Utilized a calculated field to change the Statistical Murdrer Flag from "True" and "False" to "Murdered" and "Survived" so they data could be understood more easily. 
+Utilized a calculated field to change the Vic Sex from F and M to "Female" and "Male" to better distinguish on the visualization.
 
 ## Analysis and Results: 
 
