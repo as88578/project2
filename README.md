@@ -34,7 +34,7 @@ From these visualizations, we can see that during the summer months the amount o
 Utilized a calculated field to change the Statistical Murdrer Flag from "True" and "False" to "Murdered" and "Survived" so they data could be understood more easily. 
 
 ## Analysis and Results: 
-Our data gave us a lot of information about the risks and possibilities of there being a shooting throughout New York. In our first question, we were able to go more into depth about a certain person who is more likely to become a victim of a shooting. This data will become very useful to the public and police department in order to keep people safe and off the streets at a certain time that is more likely to become a shooting. Our second question gave us insight into the data throughout the different bouroughs 
+Our data gave us a lot of information about the risks and possibilities of there being a shooting throughout New York. In our first question, we were able to go more into depth about a certain person who is more likely to become a victim of a shooting. This data will become very useful to the public and police department in order to keep people safe and off the streets at a certain time that is more likely to become a shooting. Our second question gave us insight into the data throughout the different bouroughs in a 3 year period. This data gives us a visual map in order to better visualize which parts of
 
 
 ## Date Source
