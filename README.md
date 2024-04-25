@@ -16,7 +16,7 @@ For this project we are utilizing a data set from the US Data Government website
 
 ## Data Model Questions: 
 ### Question 1: 
-Create different graphs to explain what race, age group, sex, and time of day a victim is most likely to be shot in New York.
+Create a dashboard visualizing the age group, race, sex, and time of day of NYC shooting victims.
 
 <img width="1000" alt="Screenshot 2024-04-25 at 6 19 30 PM" src="https://github.com/katiewhite29/4610-Project-2/assets/163003533/11d30c41-4159-44c1-bcaa-d85e4e1579bb">
 
