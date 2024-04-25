@@ -16,7 +16,7 @@ For this project we are utilizing a data set from the US Data Government website
 
 ## Data Model Questions: 
 ### Question 1: 
-Create a map showing the locations throughout the bouroughs of New York during the years 2019, 2020, and 2021. Explain why you think 2020 had an effect on the data.
+Create a map showing the locations of each distinct shooting incident colored by borough that occured in New York City during the years 2019, 2020, and 2021. Also create a line graph for each of these years showing the number of shooting incident over the year colored by borough. 
 
 <img width="1002" alt="Screenshot 2024-04-23 at 6 51 13 PM" src="https://github.com/katiewhite29/4610-Project-2/assets/163003533/04ad038b-a2f2-49df-811e-3422cc1ea914">
 
