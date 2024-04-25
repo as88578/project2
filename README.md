@@ -20,9 +20,7 @@ Create a map showing the locations of each distinct shooting incident colored by
 
 <img width="1002" alt="Screenshot 2024-04-23 at 6 51 13 PM" src="https://github.com/katiewhite29/4610-Project-2/assets/163003533/04ad038b-a2f2-49df-811e-3422cc1ea914">
 
-
-
-During the year 2020, the amount of shootings throughout all of the bouroughs increased. We noticed that the spike in Brooklyn shootings increased the most. Especially throughout July, we can see that that is the month that caused the biggest increase in number of shootings. This data gives us more information about the months during COVID and we can see that during these months and through our graph which the safest bouroughs are throughout New York. We also believed that since the data spiked during the month of July, this is correlated to the civil movements throughout the country at this time. 
+From these visualizations we can see that during the summer months the amount of shootings increased through out almost all of the boroughs during all three years. However, during 2020 the amount of overall shooting incidents increased significantly during the summer months of June and July. This increase was most drastic in Brooklyn and the Bronx.
 
 ### Question 2: 
 Create a graph to show the victims who survived vs the murdered victims depending on their races in Manhattan throughout 2019-2021.
