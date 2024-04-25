@@ -21,7 +21,7 @@ Create a dashboard visualizing the age group, race, sex, and time of day of NYC 
 <img width="1000" alt="Screenshot 2024-04-25 at 6 19 30 PM" src="https://github.com/katiewhite29/4610-Project-2/assets/163003533/11d30c41-4159-44c1-bcaa-d85e4e1579bb">
 
 
-From our visualizations, we saw spikes in shootings during the middle of the night, as well as predominantly male victims. In addition, a large group of victims were aged 25-44 and black. 
+From our visualizations, we saw spikes in shootings during the middle of the night, as well as predominantly male victims. In addition, a large group of victims were aged 25-44 and Black. 
 
 This visualization gives the public and the New York Police Department data in order to see who will be the safest throughout New York. Citizens will be able to become more aware of the possibility of being a victim of a shooting and the time of day that they could avoid. The police department will be able to have the information to watch a certain amount of day with more intent and be able to spot a certain person that is more likely to become a victim.
 
