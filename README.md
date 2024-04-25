@@ -18,6 +18,9 @@ For this project we are utilizing a data set from the US Data Government website
 ### Question 1: 
 Create different graphs to explain what race, age group, sex, and time of day a victim is most likely to be shot in New York.
 
+<img width="1000" alt="Screenshot 2024-04-25 at 6 19 30 PM" src="https://github.com/katiewhite29/4610-Project-2/assets/163003533/11d30c41-4159-44c1-bcaa-d85e4e1579bb">
+
+
 From our visualizations, we were able to figure out that a black male who is 25-44 years old at midnight is most likely to be a victim of a shooting. This information gives the public and the New York Police Department data in order to see who will be the safest throughout the bouroughs in New York. Citizens will be able to become more aware of their possibilites of becoming a victim of a shooting and the time of day that they could avoid. The police department will be able to have the information to watch a certain amount of day with more intent and be able to spot a certain person that is more likely to become a victim.
 
 ### Question 2: 
