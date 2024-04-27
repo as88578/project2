@@ -31,7 +31,7 @@ Create a map showing the locations of each distinct shooting incident colored by
 From these visualizations, we observed that during the summer months the amount of shootings increased through out almost all of the boroughs. However, during 2020 the amount of overall shooting incidents increased significantly during the summer months of June and July. This increase was most drastic in Brooklyn and the Bronx. 
 
 ## Manipulations to data:
-Utilized a calculated field to change the Statistical Murdrer Flag from "True" and "False" to "Murdered" and "Survived" so they data could be understood more easily. 
+Utilized a calculated field to change the Victim Sex from "F" and "M" to "Female" and "Male" for easier differentiation in visualizations. 
 
 ## Analysis and Results: 
 Our data gave us a lot of information about the risks and possibilities of there being a shooting throughout New York. In our first question, we were able to go more into depth about a certain person who is more likely to become a victim of a shooting. This data will become very useful to the public and police department in order to keep people safe and off the streets at a certain time that is more likely to become a shooting. Our second question gave us insight into the data throughout the different bouroughs in a 3 year period. This data gives us a visual map in order to better visualize which parts of
