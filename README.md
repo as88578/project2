@@ -33,6 +33,12 @@ From these visualizations, we observed that during the summer months the amount 
 ## Manipulations to data:
 We utilized a calculated field to change the Victim Sex from "F" and "M" to "Female" and "Male" for easier differentiation in visualizations. 
 
+We utilized count and distinct count on Incident Key to differentiate between the number of incidents and the number of victims. 
+
+We utilized filters to select the appropriate years and exclude others.
+
+We utilized filters to exclude outliers, mistakes, and irrelevant data in the data set such as unknown sex, unknown race, and wrong age values. 
+
 ## Analysis and Results: 
 Our visualizations provide valuable insights for both the public and the New York City Police Department regarding the patterns of shootings across the city during the years of 2019, 2020, and 2021. 
 
