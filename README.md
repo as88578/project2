@@ -18,7 +18,8 @@ For this project we are utilizing a data set from the US Data Government website
 ### Question 1: 
 Create a dashboard visualizing the age group, race, sex, and time of day of NYC shooting victims.
 
-<img width="1000" alt="Screenshot 2024-04-25 at 6 19 30 PM" src="https://github.com/katiewhite29/4610-Project-2/assets/163003533/11d30c41-4159-44c1-bcaa-d85e4e1579bb">
+<img width="1013" alt="Screenshot 2024-04-27 at 12 25 28 PM" src="https://github.com/katiewhite29/4610-Project-2/assets/163003533/4eb9cb58-290a-4a84-9ef3-2f863468fcb7">
+
 
 From these visualizations, we observed that shootings occur more frequently in NYC during the late night and early morning hours. We also observed that victims were predominantly male. In addition, there is a notable concentration of victims aged 25-44 among the Black community.  
 
