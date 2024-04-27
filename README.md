@@ -16,7 +16,7 @@ For this project we are utilizing a data set from the US Data Government website
 
 ## Data Model Questions: 
 ### Question 1: 
-Create a dashboard visualizing the age group, race, sex, and time of day of NYC shooting victims.
+Create a line graph to show the distinct count of incidents that occur at different times throughout the day for the years 2019, 2020, and 2021. Create a bar graph to measure the number of victims by their sex for these years as well. Also, create a heat map for 2019, 2020, and 2021 to count the number of victims by their race and age group. Use a dashboard to show these visualizations. 
 
 <img width="1005" alt="Screenshot 2024-04-27 at 1 17 33 PM" src="https://github.com/katiewhite29/4610-Project-2/assets/150160152/611aac3c-b330-4aba-b600-9d041a6963b0">
 
@@ -24,7 +24,7 @@ From these visualizations, we observed that shootings occur more frequently in N
 
 
 ### Question 2: 
-Create a map showing the locations of each distinct shooting incident colored by bourough that occured in New York City during the years 2019, 2020, and 2021. Also create a line graph for each of these years showing the number of shooting incident over the year colored by borough. 
+Create a map showing the locations of each distinct shooting incident colored by borough that occurred in New York City during the years 2019, 2020, and 2021. Also, create a line graph for each of these years showing the number of shooting incidents over the year colored by borough. Use a dashboard to show both of these visualizations. 
 
 <img width="1002" alt="Screenshot 2024-04-23 at 6 51 13 PM" src="https://github.com/katiewhite29/4610-Project-2/assets/163003533/04ad038b-a2f2-49df-811e-3422cc1ea914">
 
