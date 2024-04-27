@@ -20,17 +20,15 @@ Create a dashboard visualizing the age group, race, sex, and time of day of NYC 
 
 <img width="1000" alt="Screenshot 2024-04-25 at 6 19 30 PM" src="https://github.com/katiewhite29/4610-Project-2/assets/163003533/11d30c41-4159-44c1-bcaa-d85e4e1579bb">
 
+From these visualizations, we observed that shootings occur more frequently in NYC during the late night and early morning hours. We also observed that victims were predominantly male. In addition, there is a notable concentration of victims aged 25-44 among the Black community.  
 
-From our visualizations, we saw spikes in shootings during the middle of the night, as well as predominantly male victims. In addition, a large group of victims were aged 25-44 and Black. 
-
-This visualization gives the public and the New York Police Department data in order to see who will be the safest throughout New York. Citizens will be able to become more aware of the possibility of being a victim of a shooting and the time of day that they could avoid. The police department will be able to have the information to watch a certain amount of day with more intent and be able to spot a certain person that is more likely to become a victim.
 
 ### Question 2: 
 Create a map showing the locations of each distinct shooting incident colored by bourough that occured in New York City during the years 2019, 2020, and 2021. Also create a line graph for each of these years showing the number of shooting incident over the year colored by borough. 
 
 <img width="1002" alt="Screenshot 2024-04-23 at 6 51 13 PM" src="https://github.com/katiewhite29/4610-Project-2/assets/163003533/04ad038b-a2f2-49df-811e-3422cc1ea914">
 
-From these visualizations, we can see that during the summer months the amount of shootings increased through out almost all of the boroughs during all three years. However, during 2020 the amount of overall shooting incidents increased significantly during the summer months of June and July. This increase was most drastic in Brooklyn and the Bronx. Both of  these graphs we have shown, will be able to give the citizens of New York and the Police Department more of a visualization and data to avoid certain boroughs as well as certain times of years. If there are more people outside during a certain time of year that is at high risk of a shooting happening, the police can be more alert and aware of the possibilities of shootings.
+From these visualizations, we observed that during the summer months the amount of shootings increased through out almost all of the boroughs. However, during 2020 the amount of overall shooting incidents increased significantly during the summer months of June and July. This increase was most drastic in Brooklyn and the Bronx. 
 
 ## Manipulations to data:
 Utilized a calculated field to change the Statistical Murdrer Flag from "True" and "False" to "Murdered" and "Survived" so they data could be understood more easily. 
