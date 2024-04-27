@@ -49,7 +49,7 @@ Our second dashboard is comprised of two visualizations that display shooting in
 Our dashboards have examined the New York City Police Department data. Through our visualizations, citizens of NYC can better understand the potential risk factors associated with different demographics and times of day. Similarly, law enforcement agencies can utilize this information to better allocate resources more effectively, focusing on specific times and areas that exhibit higher rates of incidents. 
 
 
-## Date Source
+## Data Source
 
 Police Department (NYPD). (2024). NYPD Shooting Incident Data (Historic). NYC OpenData. https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8/about_data
 
