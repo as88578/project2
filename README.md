@@ -31,7 +31,7 @@ Create a map showing the locations of each distinct shooting incident colored by
 From these visualizations, we observed that during the summer months the amount of shootings increased through out almost all of the boroughs. However, during 2020 the amount of overall shooting incidents increased significantly during the summer months of June and July. This increase was most drastic in Brooklyn and the Bronx. 
 
 ## Manipulations to data:
-Utilized a calculated field to change the Victim Sex from "F" and "M" to "Female" and "Male" for easier differentiation in visualizations. 
+We utilized a calculated field to change the Victim Sex from "F" and "M" to "Female" and "Male" for easier differentiation in visualizations. 
 
 ## Analysis and Results: 
 Our visualizations provide valuable insights for both the public and the New York City Police Department regarding the patterns of shootings across the city during the years of 2019, 2020, and 2021. 
