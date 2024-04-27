@@ -30,7 +30,7 @@ Create a map showing the locations of each distinct shooting incident colored by
 
 From these visualizations, we observed that during the summer months the amount of shootings increased through out almost all of the boroughs. However, during 2020 the amount of overall shooting incidents increased significantly during the summer months of June and July. This increase was most drastic in Brooklyn and the Bronx. 
 
-## Manipulations to data:
+## Manipulations to Data:
 We utilized a calculated field to change the Victim Sex from "F" and "M" to "Female" and "Male" for easier differentiation in visualizations. 
 
 We utilized count and distinct count on Incident Key to differentiate between the number of incidents and the number of victims. 
