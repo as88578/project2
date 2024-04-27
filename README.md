@@ -34,7 +34,13 @@ From these visualizations, we observed that during the summer months the amount 
 Utilized a calculated field to change the Victim Sex from "F" and "M" to "Female" and "Male" for easier differentiation in visualizations. 
 
 ## Analysis and Results: 
-Our data gave us a lot of information about the risks and possibilities of there being a shooting throughout New York. In our first question, we were able to go more into depth about a certain person who is more likely to become a victim of a shooting. This data will become very useful to the public and police department in order to keep people safe and off the streets at a certain time that is more likely to become a shooting. Our second question gave us insight into the data throughout the different bouroughs in a 3 year period. This data gives us a visual map in order to better visualize which parts of
+Our visualizations provide valuable insights for both the public and the New York City Police Department regarding the patterns of shootings across the city during the years of 2019, 2020, and 2021. 
+
+Our first dashboard is comprised of three visualizations that highlight the disproportionate impact of gun violence on specific communities. It reveals a significant number of black victims across NYC with the largest number of black victims being in the age group of 25-44. In addition, it reveals that victims are predominantly male and that shooting incidents tend to occur more often during the late night and early morning. 
+
+Our second dashboard is comprised of two visualizations that display shooting incidents from 2019 to 2021 across the five boroughs of NYC; Manhattan, Brooklyn, Queens, Bronx, and Staten Island. Each point on the map represents a single shooting incident and they are color-coordinated by the borough. The graph illustrates the variation in shooting incidents throughout the years also color-coordinated by the borough. Notably, Brooklyn and the Bronx have experienced a high concentration of gun violence, with a large spike in 2020 as numerous incidents were recorded in those areas. When examining shooting incidents over each year, we observe a positive line across the summer months with July consistently having the highest number of incidents. 
+
+Our dashboards have examined the New York City Police Department data. Through our visualizations, citizens of NYC can better understand the potential risk factors associated with different demographics and times of day. Similarly, law enforcement agencies can utilize this information to better allocate resources more effectively, focusing on specific times and areas that exhibit higher rates of incidents. 
 
 
 ## Date Source
